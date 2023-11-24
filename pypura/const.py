@@ -1,0 +1,4 @@
+RGB_BLACK = [0, 0, 0]
+
+DEFAULT_MANUFACTURER = 'Pura'
+DEFAULT_MODEL = 'Dual-Wall'
